@@ -10,8 +10,8 @@ export default function Inicio(props) {
     
     return (
         <div className="inicio">
-        <h1>PAGINA DE INICIO ITACADEMY - SPRINT 6 </h1>
-        <p>Tutorial básico de consejos de utilización de la página de gestión</p>
+        <h1>PAGINA DE INICIO - SPRINT 6 </h1>
+        <p>4 pasos para saber qué  hacer</p>
         <button onClick={() => start()}>EMPECEMOS 😉 </button>
         </div>
     );
