@@ -1,0 +1,24 @@
+
+  
+  .contenido img {
+    position: absolute;
+    top: 90px
+    }
+  
+
+    
+  .contenido p {
+    position: relative;
+
+  }
+
+  .inicio > button {
+    font-size: 20pt;
+    padding: 40px;
+  }
+  .inicio {
+    font-size: 20pt;
+    text-align: center;
+  }
+  
+  
